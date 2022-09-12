@@ -1,3 +1,5 @@
+// Stack is an array with Last-In First-out
+
 class Stack {
   constructor(){
     this.count = 0;
