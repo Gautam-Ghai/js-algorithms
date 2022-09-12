@@ -1,3 +1,5 @@
+// Stack is an array with Last-In First-out
+
 var Stack = function () {
   this.count = 0;
   this.data = {}
